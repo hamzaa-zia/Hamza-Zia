@@ -104,10 +104,3 @@ My learning approach is simple: understand the concept, practice it through real
 - Email: hamzahassanzia@gmail.com
 
 Thanks for visiting my profile! ✨
-
-🚀 What I’m Working Toward:
-
-Designing scalable, secure, and cost-efficient cloud architectures.
-Automating infrastructure and deployments using DevOps principles.
-Improving system reliability, speed, and collaboration.
-Building cloud-native solutions aligned with industry best practices.
