@@ -77,8 +77,7 @@ My learning approach is simple: understand the concept, practice it through real
 - AI/ML fundamentals
 - Python for data analysis
 - Data visualization
-- Full-stack web development
-- Backend APIs and databases
+- Backend APIs 
 - Cloud Engineering fundamentals
 - Cloud-native application concepts
 - Docker containerization
