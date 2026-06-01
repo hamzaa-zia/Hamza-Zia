@@ -13,7 +13,7 @@ I am focused on understanding how modern applications are developed, analyzed, d
 - ☁️ Exploring **Cloud Engineering and cloud-native environments**
 - 🐳 Learning **Docker** for containerizing applications
 - ⚙️ Learning **Kubernetes** for managing containerized workloads
-- 🌐 Interested in **full-stack development and backend APIs**
+- 🌐 Interested in **backend APIs**
 - 🧠 I enjoy solving problems, improving workflows, and understanding how things work behind the scenes
 - 📝 I like keeping my work clean, documented, and easy to understand
 
